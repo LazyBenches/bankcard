@@ -1,0 +1,11 @@
+{
+    "name": "lazybench/bankcard",
+    "description": "bankCard element",
+    "authors": [
+        {
+            "name": "LazyBench",
+            "email": "jwy226@qq.com"
+        }
+    ],
+    "require": {}
+}
